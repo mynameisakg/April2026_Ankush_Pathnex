@@ -1,8 +1,8 @@
 # What I did today
 # Office Task - 5 hours
-# AWS/git setup - 1 hour
-# coding by typing - 10 mins
-# coding with pen-paper - 40 mins
+# AWS/git setup - 2 hour
+# coding by typing - 20 mins
+# coding with pen-paper - 40 mins(in office)
 # Course Overview - 15 mins
 
 ## Tomorrow's Task
