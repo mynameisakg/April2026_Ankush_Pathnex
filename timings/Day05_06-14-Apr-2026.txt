@@ -1,0 +1,9 @@
+Today's Task
+#2 hour Docker
+#2 hour K8s
+#2 hours coding
+
+#Tomorrows Task
+#Attend live session
+#Attend Evening session
+#Practice K8s deployment
