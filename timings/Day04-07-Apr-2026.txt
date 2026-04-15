@@ -1,0 +1,10 @@
+Today's Task
+#2 hours AWS topics revision
+#1 hour coding
+#30 min IAM practice
+#30 min custom VPC with subnet NACL
+
+#Tomorrows Task
+#Attend AWS session
+#Attend Evening session
+#Practice AWS interview concepts 
