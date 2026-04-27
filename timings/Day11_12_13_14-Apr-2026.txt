@@ -1,0 +1,9 @@
+# What I did today
+# ELK Stack -6 hours
+# Prometheus and Grafana - 5 hours
+# Jenkins - 5 hours
+
+## Tomorrow's Task
+# Possibly create an end to end architecture using aws, K8's, ELK, gitops, jenkins, git
+# Will attend morning session.
+
