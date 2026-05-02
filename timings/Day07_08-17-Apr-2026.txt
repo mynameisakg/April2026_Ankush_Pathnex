@@ -1,8 +1,0 @@
-Today's Task
-#5 hours K8's
-#1 hour coding
-
-#Tomorrows Task
-#Attend live session
-#Attend Evening session
-#Practice K8s deployment
