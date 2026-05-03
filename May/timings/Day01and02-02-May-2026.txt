@@ -1,0 +1,8 @@
+#Todays Task:-
+1. Revised Linux
+2. Revised Docker
+3. Recorded interview
+
+#Tomorrows Task:-
+#Revise aws
+#Revise Docker

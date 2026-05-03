@@ -1,0 +1,47 @@
+## 🔹 Ansible Task — Install Nginx on Pathnex Server
+
+- name: Install Nginx on Pathnex Server
+  hosts: all
+  become: yes
+
+  tasks:
+    - name: Install nginx
+      yum:
+      name: nginx
+      state: present
+
+
+## 🔹 GitLab CI — Checkout Git
+stages:
+  - checkout
+
+git-checkout:
+ stage: checkout
+ script:
+ - git clone "repo_name"
+ - cd "folder_in_repo"
+ - ls -al
+
+## 🔹 Shell Script — Print Date & Hostname
+
+#!/bin/bash
+echo "Date: $(date)"
+echo "Hostname: $(hostname)"
+
+## 🔹 Terraform Task — Create EC2 (c5.xlarge)
+
+provider "aws" {
+  region = "us-east-1"
+}
+
+resource "aws_instance" "PathnexEC2" {
+  ami           = "ami-0abcd1234abcd1234"
+  instance_type = "c5.xlarge"
+
+  tags = {
+    Name = "Pathnex-EC2"
+  }
+}
+
+
+
