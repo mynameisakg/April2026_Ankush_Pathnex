@@ -1,0 +1,8 @@
+#Todays Task:-
+1. Revised Networking
+2. Revised Docker/ K8s
+3. Recorded interview
+
+#Tomorrows Task:-
+#Revise K8's
+#Revise AWS
