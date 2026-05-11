@@ -1,0 +1,6 @@
+#Todays Task:-
+1. Revised Kubernetes
+2. Revised EKS cluster setup
+
+#Tomorrows Task:-
+#Revise Ansible
